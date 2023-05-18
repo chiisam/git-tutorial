@@ -2,4 +2,5 @@
 
 - feature-A
 - fix-B
-- faeture-C(typo)
+- feature-C(typo)
+- feature-D
